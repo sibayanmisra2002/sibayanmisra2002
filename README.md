@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sibayanmisra2002
-- 👀 I’m interested in Learning new things and developing projects on them
+- 👀 I’m interested in Learning new things
 - 🌱 I’m currently in 3rd year doing B.tech in CSE @ UEMK
 - 💞️ I’m looking to collaborate on group projects, internships, jobs.
 - 📫 LinkedIn Profile: https://www.linkedin.com/in/sibayan-misra-412661203/
