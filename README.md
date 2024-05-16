@@ -44,6 +44,8 @@
 <br/>
 <hr/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
 <details>
   <summary>GitHub Statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" align="right" /></summary>
   <img src="https://i.pinimg.com/originals/84/e8/47/84e84792bd2f7489443c4bdbc20e182c.png" height="200px" width="200px" alt="illustration" align="left">
@@ -57,33 +59,9 @@
     <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=sibayanmisra2002&theme=algolia&column=4&margin-w=35&margin-h=15" alt="sibayanmisra2002" /></p>
 </details>
 
-<hr/>
-
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-sibayanmisra2002.vercel.app/?user=sibayanmisra2002&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-sibayanmisra2002.vercel.app/api?username=sibayanmisra2002&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-sibayanmisra2002.vercel.app/api/top-langs/?username=sibayanmisra2002&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
 <br/><br/>
 
 <hr/>
 
 <br/>
 
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<br/>
