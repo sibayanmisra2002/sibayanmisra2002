@@ -44,13 +44,18 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sibayanmisra2002/sibayanmisra2002/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+<details>
+  <summary>GitHub Statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" align="right" /></summary>
+  <img src="https://i.pinimg.com/originals/84/e8/47/84e84792bd2f7489443c4bdbc20e182c.png" height="200px" width="200px" alt="illustration" align="left">
+  <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sibayanmisra2002&show_icons=true&theme=tokyonight"> 
+<img src="https://i.pinimg.com/originals/7b/7e/07/7b7e0712e9c23914f938ec7f51cd0951.png" height="200px" width="200px" alt="illustration" align="right">
+  <p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sibayanmisra2002&theme=radical">
+  </p>
+    
+<br />
+    <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=sibayanmisra2002&theme=algolia&column=4&margin-w=35&margin-h=15" alt="sibayanmisra2002" /></p>
+</details>
 
 <hr/>
 
