@@ -46,7 +46,7 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<details>
+<div>
 <!--   <summary>GitHub Statistics <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Comet.png" alt="Comet" width="25" height="25" align="right" /></summary> -->
   <img src="https://i.pinimg.com/originals/84/e8/47/84e84792bd2f7489443c4bdbc20e182c.png" height="200px" width="200px" alt="illustration" align="left">
   <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sibayanmisra2002&show_icons=true&theme=tokyonight"> 
@@ -57,7 +57,7 @@
     
 <br />
     <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=sibayanmisra2002&theme=algolia&column=4&margin-w=35&margin-h=15" alt="sibayanmisra2002" /></p>
-</details>
+</div>
 
 <br/><br/>
 
